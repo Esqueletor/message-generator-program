@@ -1,0 +1,26 @@
+{
+  "name": "message-generator-program",
+  "version": "1.0.0",
+  "description": "A randomized message generator",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esqueletor/message-generator-program.git"
+  },
+  "keywords": [
+    "cadecademy",
+    "mixed",
+    "message",
+    "daily",
+    "generator"
+  ],
+  "author": "Esqueletor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esqueletor/message-generator-program/issues"
+  },
+  "homepage": "https://github.com/Esqueletor/message-generator-program#readme"
+}
