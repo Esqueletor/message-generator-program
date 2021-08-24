@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Esqueletor/message-generator-program/issues"
   },
-  "homepage": "https://github.com/Esqueletor/message-generator-program#readme"
+  "homepage": "https://github.com/Esqueletor/message-generator-program#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
 }
